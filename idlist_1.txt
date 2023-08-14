@@ -1,4 +1,4 @@
-1.0.0.3
+1.0.0.3 - 팔로워 늘리기 서버
 ohee_living
 mang_bba
 coldy_j
