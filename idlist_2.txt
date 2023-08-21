@@ -1,4 +1,7 @@
-1.0.0.3 - 언팔 관리
+Update Date : 2023-08-21
+Version : 1.0.0.3 
+Purpose : 언팔 관리
+
 ohee_living
 mang_bba
 coldy_j
