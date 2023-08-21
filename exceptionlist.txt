@@ -1,7 +1,7 @@
-1.0.0.3 - 팔로워 늘리기 서버
-Update Date : 2023-08-21
-Version : 1.0.0.3 
-Purpose : 예외처리 - 제외단어
+1.0.0.3-제외단어
+UpdateDate:2023-08-21
+Version:1.0.0.3 
+Purpose:예외처리
 
 수익
 재테크
