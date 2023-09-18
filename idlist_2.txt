@@ -2,7 +2,7 @@ Update Date : 2023-08-21
 Version : 1.0.0.3 
 Purpose : 언팔 관리
 
-ohee_living
+ohee_bubu
 mang_bba
 coldy_j
 im_jiha_
