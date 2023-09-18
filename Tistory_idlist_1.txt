@@ -3,8 +3,10 @@ Version : 1.0.0.0
 Purpose : 티스토리 포스팅 자동화 (GPT+DALL-E) 
 
 
-coldy-j
-thinker-j
-investment-daddy
-sunseetv
+coldy-j , 2024-12-31
+thinker-j , 2024-12-31
 ohee-living
+investment-daddy 
+sunseetv
+
+enjoy-allnews
