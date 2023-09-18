@@ -2,4 +2,5 @@ Update Date :  2023.09.14
 Version : 1.0.0.0
 Purpose : 티스토리 댓글 자동화 (REST API + Selenium) 
 
-kwon8123@naver.com
+coldy-j
+thinker-j
