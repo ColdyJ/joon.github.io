@@ -4,3 +4,9 @@ Purpose : 티스토리 댓글 자동화 (REST API + Selenium)
 
 coldy-j
 thinker-j
+
+ohee-living
+jjintraveler
+traveljoha
+
+
