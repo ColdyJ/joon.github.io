@@ -3,9 +3,6 @@ Version : 1.0.0.0
 Purpose : 티스토리 포스팅 자동화 (GPT+DALL-E) 
 
 
-coldy-j
-thinker-j
-
 ohee-living
 jjintraveler
 traveljoha
@@ -18,6 +15,10 @@ sunseetv
 
 enjoy-allnews
 bankertip
+
+coldy-j
+thinker-j
+
 
 end
 
