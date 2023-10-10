@@ -7,6 +7,7 @@ coldy-j
 thinker-j
 
 ohee-living
+https://oheeliving.com/wp-json/
 jjintraveler
 traveljoha
 travelhaha
