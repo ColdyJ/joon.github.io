@@ -9,10 +9,12 @@ thinker-j
 ohee-living
 https://oheeliving.com/wp-json/
 https://inyourworldtrip.com/wp-json/
+https://foryourworldtrip.com/wp-json/
 jjintraveler
 traveljoha
 travelhaha
 tripjoha
+workingjoha
 
 investment-daddy 
 sunseetv
