@@ -34,7 +34,7 @@ yeon-review
 rkddms24
 
 23.12.23
-http://geekbrainer.com/wp-json/
+https://geekbrainer.com/wp-json/
 
 
 24.01.21
