@@ -25,10 +25,6 @@ foodjoha
 investment-daddy 
 sunseetv
 
-
-23.12.23
-https://geekbrainer.com/wp-json/
-
 23.12.27
 https://ororo.kr/wp-json/
 
@@ -38,6 +34,9 @@ ouahhaha
 24.01.21
 chang-farm
 https://inforstory.co.kr/wp-json/
+
+24.01.25
+https://penguinwaddle.com/wp-json/
 
 24.04.31
 leadernam
