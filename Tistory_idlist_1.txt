@@ -2,6 +2,7 @@ Update Date :  2023.09.18
 Version : 1.0.0.0
 Purpose : 티스토리 포스팅 자동화 (GPT+DALL-E) 
 
+admin
 
 coldy-j
 thinker-j
