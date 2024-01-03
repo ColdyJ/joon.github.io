@@ -27,9 +27,6 @@ foodjoha
 investment-daddy 
 sunseetv
 
-23.12.27
-https://ororo.kr/wp-json/
-
 24.01.15
 ouahhaha
 
@@ -39,6 +36,9 @@ https://inforstory.co.kr/wp-json/
 
 24.01.25
 https://penguinwaddle.com/wp-json/
+
+24.02.03
+
 
 24.04.31
 leadernam
